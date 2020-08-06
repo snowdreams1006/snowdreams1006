@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm [snowdreams1006!](https://snowdreams1006.github.io) 👋
 
 - [![%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99](https://img.shields.io/badge/%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-snowdreams1006.tech-brightgreen.svg)](https://snowdreams1006.tech/)
@@ -19,8 +17,8 @@ Hi, I'm snowdreams1006, a passionate self-taught full stack developer from China
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/snowdreams1006/github-readme-stats)*
 
 <a href="https://github.com/snowdreams1006/snowdreams1006.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snowdreams1006&show_icons=true&include_all_commits=true&theme=radical" alt="snowdreams1006's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snowdreams1006&show_icons=true&include_all_commits=true" alt="snowdreams1006's github stats" />
 </a>
 <a href="https://github.com/snowdreams1006/snowdreams1006.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowdreams1006&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowdreams1006&layout=compact" />
 </a>
